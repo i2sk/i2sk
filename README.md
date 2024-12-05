@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @i2sk
+- 👀 I’m a programing beginner
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on data analysis
+- 📫 How to reach me: misew3092@gmail.com
